@@ -16,9 +16,9 @@ Like you see, the project has actually no "style", feel free to enhance it as yo
 It's really easy to do a simple HTML/CSS pull request, so at least indent your code so the project will stay proper :).
 
 ## How to contribute
-- Fork the project
-- Clone it
-- Push your job on your repository
+- Fork the project.
+- Clone it.
+- Push your job on your repository.
 - When the job is done, submit a pull request, and that's it!
 
 ## More 
